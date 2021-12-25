@@ -1,6 +1,7 @@
 # Mod from GassistPi
 
 **GassistPi: https://github.com/shivasiddharth/GassistPi**
+
 **Pi Zero - forked and modified from warchildmd's repo (https://github.com/warchildmd/google-assistant-hotword-raspi)**  
 
 # Features:  
