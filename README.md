@@ -1,4 +1,4 @@
-# GassistPi -- Google Assistant for all Raspberry Pi Boards  
+# Mod from https://github.com/shivasiddharth/GassistPi  
 
 **Pi Zero - forked and modified from warchildmd's repo (https://github.com/warchildmd/google-assistant-hotword-raspi)**  
 
