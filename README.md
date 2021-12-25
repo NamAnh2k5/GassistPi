@@ -42,7 +42,7 @@
 1. Open the terminal and execute the following  
 
 ```
-git clone https://github.com/NamAnh2k5/GassistPi-Zero 
+git clone https://github.com/NamAnh2k5/GassistPi
 ```     
 
 
