@@ -1,4 +1,4 @@
-# Mod from GassistPi
+# Mod from GassistPi v2.0
 
 **GassistPi: https://github.com/shivasiddharth/GassistPi**
 
